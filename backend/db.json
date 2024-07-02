@@ -1,0 +1,21 @@
+{
+  "pensamentos": [{
+    "conteudo": "Eu amo Angular",
+    "autoria": "João da Mata",
+    "modelo": "modelo3"
+  },
+  {
+    "conteudo": "Eu amo Python",
+    "autoria": "Adrille",
+    "modelo": "modelo2"
+  },{
+    "conteudo": "Eu amo Python",
+    "autoria": "Adrille",
+    "modelo": "modelo2"
+  },
+  {
+    "conteudo": "Eu amo Java",
+    "autoria": "Brenno",
+    "modelo": "modelo1"
+  }]
+}
